@@ -1,0 +1,13 @@
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Release\SerialPort Terminal.exe.config
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Release\SerialPort Terminal.exe.manifest
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Release\SerialPort Terminal.application
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Release\SerialPort Terminal.exe
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Release\SerialPort Terminal.pdb
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\ResolveAssemblyReference.cache
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\SerialPortTerminal.IMEI_Management.resources
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\SerialPortTerminal.Properties.Resources.resources
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\SerialPortTerminal.csproj.GenerateResource.Cache
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\SerialPort Terminal.exe.manifest
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\SerialPort Terminal.application
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\SerialPort Terminal.exe
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\SerialPort Terminal.pdb

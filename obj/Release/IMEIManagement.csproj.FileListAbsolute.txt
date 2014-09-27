@@ -1,0 +1,13 @@
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\ResolveAssemblyReference.cache
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\SerialPortTerminal.IMEI_Management.resources
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\IMEIManagement.Properties.Resources.resources
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\IMEIManagement.csproj.GenerateResource.Cache
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Release\IMEI Management.exe.config
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Release\IMEI Management.exe.manifest
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Release\IMEI Management.application
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Release\IMEI Management.exe
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Release\IMEI Management.pdb
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\IMEI Management.exe.manifest
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\IMEI Management.application
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\IMEI Management.exe
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Release\IMEI Management.pdb

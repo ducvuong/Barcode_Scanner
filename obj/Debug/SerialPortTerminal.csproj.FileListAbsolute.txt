@@ -1,0 +1,32 @@
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.manifest
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\bin\Debug\SerialPort Terminal.application
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\bin\Debug\SerialPort Terminal.pdb
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\obj\Debug\SerialPortTerminal.csprojResolveAssemblyReference.cache
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.GenerateResource.Cache
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe.manifest
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\obj\Debug\SerialPort Terminal.application
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
+C:\Users\ducvu_000\Downloads\SerialPortTerminal\bin\Debug\NotificationWindow.dll
+C:\Users\ducvuong\Documents\Visual Studio 2010\Projects\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Users\ducvuong\Documents\Visual Studio 2010\Projects\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+C:\Users\ducvuong\Documents\Visual Studio 2010\Projects\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Debug\ResolveAssemblyReference.cache
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Debug\SerialPortTerminal.IMEI_Management.resources
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.GenerateResource.Cache
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.manifest
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Debug\SerialPort Terminal.application
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Debug\SerialPort Terminal.pdb
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe.manifest
+D:\My data\Projects\20_9\SerialPortTerminal\obj\Debug\SerialPort Terminal.application
+D:\My data\Projects\20_9\SerialPortTerminal\bin\Debug\IMEI Management.exe.config
