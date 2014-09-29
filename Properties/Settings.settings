@@ -20,5 +20,8 @@
     <Setting Name="StopBits" Type="System.IO.Ports.StopBits" Scope="User">
       <Value Profile="(Default)">One</Value>
     </Setting>
+    <Setting Name="Purpose" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Test IMEI Writing</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

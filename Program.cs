@@ -1,19 +1,15 @@
 using System;
-using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace IMEIManagement
+namespace IMEIScanner
 {
   static class Program
   {
-    /// <summary>
-    /// The main entry point for the application.
-    /// </summary>
     [STAThread]
     static void Main()
     {
       Application.EnableVisualStyles();
-      Application.Run(new IMEI_Management());
+      Application.Run(new IMEI_Scanner());
     }
   }
 }

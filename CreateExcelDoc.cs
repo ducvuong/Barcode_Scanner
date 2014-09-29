@@ -4,7 +4,7 @@ using System.Windows.Forms;
 using Microsoft.Office.Interop.Excel;
 using Application = Microsoft.Office.Interop.Excel.Application;
 
-namespace IMEIManagement
+namespace IMEIScanner
 {
     /// <summary>
     /// Export to excel helper class

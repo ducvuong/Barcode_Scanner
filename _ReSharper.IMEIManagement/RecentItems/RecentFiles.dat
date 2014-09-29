@@ -1,14 +1,22 @@
 ﻿<RecentFiles>
   <RecentFiles>
-    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:App.config" caret="0" fromTop="0" />
-    <File id="7020124F-9FFC-4AC3-8F3D-AAB8E0240759/f:MainProgram.cs/l:..?SampleManagement?SampleManagement?Views?MainProgram.cs" caret="22920" fromTop="28" />
-    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:IMEI Management.Designer.cs" caret="0" fromTop="0" />
-    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:CreateExcelDoc.cs" caret="3258" fromTop="0" />
-    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:IMEI Management.cs" caret="8435" fromTop="25" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:DataMode.cs" caret="21" fromTop="0" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:CreateExcelDoc.cs" caret="4654" fromTop="123" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/d:Properties/f:Settings.Designer.cs" caret="1375" fromTop="13" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:Program.cs" caret="13" fromTop="0" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:App.config" caret="1404" fromTop="29" />
+    <File id="7020124F-9FFC-4AC3-8F3D-AAB8E0240759/f:MainProgram.cs/l:..?SampleManagement?SampleManagement?Views?MainProgram.cs" caret="39622" fromTop="17" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:IMEI_Scanner.Designer.cs" caret="15873" fromTop="15" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:IMEI_Scanner.cs" caret="12953" fromTop="9" />
+    <File id="7020124F-9FFC-4AC3-8F3D-AAB8E0240759/f:IMEI Scanner.exe.config/l:C!?Program Files (x86)?SW Eng Part?IMEI Scanner?IMEI Scanner.exe.config" caret="949" fromTop="17" />
   </RecentFiles>
   <RecentEdits>
-    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:App.config" caret="0" fromTop="0" />
-    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:CreateExcelDoc.cs" caret="2296" fromTop="11" />
-    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:IMEI Management.cs" caret="10770" fromTop="6" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:CreateExcelDoc.cs" caret="4639" fromTop="123" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:DataMode.cs" caret="21" fromTop="0" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/d:Properties/f:Settings.Designer.cs" caret="15303" fromTop="18" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:Program.cs" caret="13" fromTop="0" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:App.config" caret="1344" fromTop="27" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:IMEI_Scanner.cs" caret="15669" fromTop="22" />
+    <File id="BBE71346-25BB-4D3D-B91E-EE027947F8D9/f:IMEI_Scanner.Designer.cs" caret="15957" fromTop="16" />
   </RecentEdits>
 </RecentFiles>

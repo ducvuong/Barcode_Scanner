@@ -26,3 +26,17 @@ F:\New folder\SerialPortTerminal\obj\Debug\ResGen.write.1.tlog
 F:\New folder\SerialPortTerminal\obj\Debug\IMEI Management.exe.manifest
 F:\New folder\SerialPortTerminal\obj\Debug\IMEI Management.application
 F:\New folder\SerialPortTerminal\obj\Debug\IMEIManagement.csproj.ResolveComReference.cache
+F:\Git Hub\Barcode_Scanner\bin\Debug\IMEI Management.exe.config
+F:\Git Hub\Barcode_Scanner\obj\Debug\IMEIManagement.csproj.ResolveComReference.cache
+F:\Git Hub\Barcode_Scanner\obj\Debug\IMEI Management.exe
+F:\Git Hub\Barcode_Scanner\obj\Debug\IMEI Management.pdb
+F:\Git Hub\Barcode_Scanner\bin\Debug\IMEI Management.exe.manifest
+F:\Git Hub\Barcode_Scanner\bin\Debug\IMEI Management.application
+F:\Git Hub\Barcode_Scanner\bin\Debug\IMEI Management.exe
+F:\Git Hub\Barcode_Scanner\bin\Debug\IMEI Management.pdb
+F:\Git Hub\Barcode_Scanner\obj\Debug\IMEIManagement.csprojResolveAssemblyReference.cache
+F:\Git Hub\Barcode_Scanner\obj\Debug\IMEIManagement.IMEI_Management.resources
+F:\Git Hub\Barcode_Scanner\obj\Debug\IMEIManagement.Properties.Resources.resources
+F:\Git Hub\Barcode_Scanner\obj\Debug\IMEIManagement.csproj.GenerateResource.Cache
+F:\Git Hub\Barcode_Scanner\obj\Debug\IMEI Management.exe.manifest
+F:\Git Hub\Barcode_Scanner\obj\Debug\IMEI Management.application
